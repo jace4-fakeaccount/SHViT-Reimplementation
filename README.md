@@ -79,7 +79,7 @@ Please click on the thumbnail below to view the video on YouTube or click [here]
 3.  **Install dependencies:**
     Install PyTorch according to your system/CUDA version from the [official website](https://pytorch.org/). Then, install other requirements:
     ```bash
-    conda install cudatoolkit==12.1 pytorch torchvision torchaudio -c pytorch
+    conda install cudatoolkit pytorch torchvision torchaudio -c pytorch
     pip install -r requirements.txt
     ```
 

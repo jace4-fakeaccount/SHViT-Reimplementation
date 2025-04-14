@@ -12,7 +12,7 @@ import torchvision.transforms as transforms
 from PIL import Image
 from timm.models import create_model
 
-import model.build
+import register_model
 
 # Default ImageNet normalization constants
 IMAGENET_DEFAULT_MEAN = (0.485, 0.456, 0.406)
