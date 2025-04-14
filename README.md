@@ -33,7 +33,7 @@ This version focuses on:
 
 ## Video Demonstration and Explanation
 
-Please click on the thumbnail below to view the video on youtube.
+Please click on the thumbnail below to view the video on YouTube or click [here](https://youtu.be/WtfPZht9YxA).
 
 [![SHViT Video](assets/shvit_picture.png)](https://youtu.be/WtfPZht9YxA)
 
