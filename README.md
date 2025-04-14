@@ -175,7 +175,7 @@ python test.py --model shvit_s1 --checkpoint checkpoint/shvit_s1.pth --image-pat
 ## Export the model
 
 ```bash
-python src/export.py --variant shvit_s1 --checkpoint checkpoint/shvit_s1.pth --output-file /path/to/output_model_dir/ --output-device iphone
+python src/export.py --variant shvit_s1 --checkpoint checkpoint/shvit_s1.pth --output-file /path/to/output_model_dir/ --platform ios
 ```
 
 ### Inference on iPhone
